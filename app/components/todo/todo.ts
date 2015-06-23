@@ -1,4 +1,5 @@
 import {Component, View, NgFor} from 'angular2/angular2';
+//import {Http, httpInjectables} from 'angular2/http';
 
 import {NamesList} from '../../services/NameList';
 import {ToDoFactory} from '../../services/ToDoFactory';
